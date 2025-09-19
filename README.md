@@ -4,7 +4,7 @@ I'm a **PhD student in Biosystem Science and Engineering** at **ETH Zurich (Base
 My research lies at the crossroads between **physics** and **biology**, where I use **Atomic Force Microscopy (AFM)** to study how **physical forces** and **cellular mechanical properties** drive biological processes such as **development**, **migration**, and **differentiation**.
 
 I’m passionate about uncovering the physical principles behind life processes and translating them into quantitative insights.  
-To support my work, I rely heavily on **Python** for data analysis, signal processing, and visualization.
+To support my work, I rely heavily on **Python** for data analysis, signal processing, statistics and visualization.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/giulia-ammirati" target="_blank">
