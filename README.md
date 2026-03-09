@@ -16,25 +16,6 @@ I'm also deeply enthusiastic about how the **integration of AI and machine learn
 
 ---
 
-### 🔬 Featured Project — Cell Morphology Classifier
-A machine learning pipeline to classify **HeLa cells** under cytoskeletal drug perturbations from fluorescence microscopy images.  
-The pipeline combines **deep learning segmentation** with **classical ML classification**:
-
-- 🧬 **Segmentation** — [CellPose](https://github.com/MouseLand/cellpose) for automated cell boundary detection
-- 📐 **Feature extraction** — morphological descriptors (area, eccentricity, solidity, shape index...) via `scikit-image`
-- 🌲 **Classification** — Random Forest across **6 drug conditions** (~68% accuracy), with biologically meaningful confusion patterns
-- 📊 **Visualization** — UMAP embeddings & confusion matrices via `matplotlib` / `seaborn`
-
-<p align="left">
-  <img src="https://img.shields.io/badge/CellPose-00BFFF?style=for-the-badge&logoColor=white" alt="CellPose"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/scikit--image-4B8BBE?style=for-the-badge&logoColor=white" alt="scikit-image"/>
-  <img src="https://img.shields.io/badge/UMAP-9B59B6?style=for-the-badge&logoColor=white" alt="UMAP"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn"/>
-</p>
-
----
-
 ### 🛠️ Skills & Technologies
 Here are some of the tools and technologies I use:
 <p align="left">
