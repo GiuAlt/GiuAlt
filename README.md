@@ -32,7 +32,4 @@ Here are some of the tools and technologies I use:
   <img src="https://img.shields.io/badge/Biophysics-8E44AD?style=for-the-badge&logoColor=white" alt="Biophysics"/>
   <img src="https://img.shields.io/badge/Cell%20Mechanics-6C3483?style=for-the-badge&logoColor=white" alt="Cell Mechanics"/>
   <img src="https://img.shields.io/badge/CellPose-00BFFF?style=for-the-badge&logoColor=white" alt="CellPose"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/scikit--image-4B8BBE?style=for-the-badge&logoColor=white" alt="scikit-image"/>
-
 </p>
