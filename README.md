@@ -34,6 +34,5 @@ Here are some of the tools and technologies I use:
   <img src="https://img.shields.io/badge/CellPose-00BFFF?style=for-the-badge&logoColor=white" alt="CellPose"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/scikit--image-4B8BBE?style=for-the-badge&logoColor=white" alt="scikit-image"/>
-  <img src="https://img.shields.io/badge/UMAP-9B59B6?style=for-the-badge&logoColor=white" alt="UMAP"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn"/>
+
 </p>
