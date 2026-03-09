@@ -3,7 +3,7 @@ I'm a **PhD student in Biosystem Science and Engineering** at **ETH Zurich (Base
 My research lies at the crossroads between **physics** and **biology**, where I use **Atomic Force Microscopy (AFM)** to study how **physical forces** and **cellular mechanical properties** drive biological processes such as **development**, **migration**, and **differentiation**.
 I'm passionate about uncovering the physical principles behind life processes and translating them into quantitative insights.  
 To support my work, I rely heavily on **Python** for data analysis, signal processing, statistics and visualization.  
-I'm also deeply enthusiastic about how the **integration of AI and machine learning in biology** is opening new ways to extract meaning from complex biological data and accelerate discovery.
+I'm also actively explore how the **integration of AI and machine learning in biology** is opening new ways to extract meaning from complex biological data and accelerate discovery.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/giulia-ammirati" target="_blank">
@@ -31,4 +31,9 @@ Here are some of the tools and technologies I use:
   <img src="https://img.shields.io/badge/Force%20Spectroscopy-388E3C?style=for-the-badge&logoColor=white" alt="Force Spectroscopy"/>
   <img src="https://img.shields.io/badge/Biophysics-8E44AD?style=for-the-badge&logoColor=white" alt="Biophysics"/>
   <img src="https://img.shields.io/badge/Cell%20Mechanics-6C3483?style=for-the-badge&logoColor=white" alt="Cell Mechanics"/>
+  <img src="https://img.shields.io/badge/CellPose-00BFFF?style=for-the-badge&logoColor=white" alt="CellPose"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/scikit--image-4B8BBE?style=for-the-badge&logoColor=white" alt="scikit-image"/>
+  <img src="https://img.shields.io/badge/UMAP-9B59B6?style=for-the-badge&logoColor=white" alt="UMAP"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn"/>
 </p>
