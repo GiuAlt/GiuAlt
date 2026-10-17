@@ -1,9 +1,10 @@
 ### Hi, I'm Giulia Ammirati 👋
-I'm a **PhD in Biophysics from the Biosystem Science and Engineering department** at **ETH Zurich (Basel)**.  
-My research lies at the crossroads between **physics** and **biology**, where I use **Atomic Force Microscopy (AFM)** to study how **physical forces** and **cellular mechanical properties** drive biological processes such as **development**, **migration**, and **differentiation**.
-I'm passionate about uncovering the physical principles behind life processes and translating them into quantitative insights.  
-To support my work, I rely heavily on **Python** for data analysis, signal processing, statistics and visualization.  
-I'm also actively exploring how the **integration of AI and machine learning in biology** is opening new ways to extract meaning from complex biological data and accelerate discovery.
+
+I hold a **PhD in Biosystems Science and Engineering** from **ETH Zurich (D-BSSE, Basel)**, where I worked at the interface of physics and biology. Using **Atomic Force Microscopy**, I characterized the mechanical and rheological properties of single cells and 3D systems — spheroids and organoids — to understand how physical forces shape processes like migration, development, and differentiation.
+
+Alongside the experimental work, I build **machine learning pipelines for biological data**: spatial transcriptomics, multimodal patient stratification, image-based morphology classification, and deep generative models for biophysical measurements. I'm drawn to problems where careful experimental data and quantitative modeling have to meet.
+
+**Currently looking for** a role in biotech or pharma where experimental biology and computational methods are both taken seriously — ML/computational scientist positions, ideally in Switzerland.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/giulia-ammirati" target="_blank">
@@ -16,20 +17,12 @@ I'm also actively exploring how the **integration of AI and machine learning in 
 
 ---
 
-### 🛠️ Skills & Technologies
-Here are some of the tools and technologies I use:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/scikit--image-4B8BBE?style=for-the-badge&logoColor=white" alt="scikit-image"/>
-  <img src="https://img.shields.io/badge/AFM%20%7C%20JPK-4CAF50?style=for-the-badge&logoColor=white" alt="AFM JPK"/>
-  <img src="https://img.shields.io/badge/Force%20Spectroscopy-388E3C?style=for-the-badge&logoColor=white" alt="Force Spectroscopy"/>
-  <img src="https://img.shields.io/badge/Biophysics-8E44AD?style=for-the-badge&logoColor=white" alt="Biophysics"/>
-  <img src="https://img.shields.io/badge/Cell%20Mechanics-6C3483?style=for-the-badge&logoColor=white" alt="Cell Mechanics"/>
-  <img src="https://img.shields.io/badge/CellPose-00BFFF?style=for-the-badge&logoColor=white" alt="CellPose"/>
-</p>
+### 📌 Featured projects
+
+| Project | What it does |
+| --- | --- |
+| [Multimodal Patient Stratification — TCGA-BRCA](https://github.com/GiuAlt/Multimodal-Patient-Stratification---TCGA_BRCA) | Unsupervised stratification of breast cancer patients from expression and clinical data; UMAP + HDBSCAN, survival analysis, ESM-2 protein embeddings with leakage-safe cross-validation |
+| [Spatial Transcriptomics — BRCA](https://github.com/GiuAlt/Spatial_Transcriptomics_BRCA) | 10x Visium slide analyzed end to end: graph autoencoder, DestVI deconvolution, H&E morphology classifier |
+| [Cell Morphology ML](https://github.com/GiuAlt/Cell_Morphology_ML) | CNN vs. Random Forest on single-nucleus image patches, classifying actin-depolymerized from control cells |
+| [Mechanical VAE](https://github.com/GiuAlt/Mechanical_VAE) | Variational autoencoder on AFM compression–recovery trajectories, learning a latent space of cell mechanical behavior |
+| [PDAC Trial Outcome Predictor](https://github.com/GiuAlt/PDAC_Trial_Outcome_Predictor) | Random Forest with SHAP interpretation on pancreatic cancer clinical trial data |
