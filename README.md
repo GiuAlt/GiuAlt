@@ -4,7 +4,7 @@ I hold a **PhD in Biophysics from the Biosystems Science and Engineering departm
 
 Alongside the experimental work, I build **machine learning pipelines for biological data**: spatial transcriptomics, multimodal patient stratification, image-based morphology classification, and deep generative models for biophysical measurements. I'm drawn to problems where careful experimental data and quantitative modeling have to meet.
 
-**Currently looking for** a role in biotech or pharma where experimental biology and computational methods are both taken seriously — ML/computational scientist positions, ideally in Switzerland.
+**Currently looking for** a role in biotech or pharma where experimental biology and computational methods bridge to foster each other. 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/giulia-ammirati" target="_blank">
