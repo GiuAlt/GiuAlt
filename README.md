@@ -1,5 +1,5 @@
 ### Hi, I'm Giulia Ammirati 👋
-I'm a **PhD student in Biosystem Science and Engineering** at **ETH Zurich (Basel)**.  
+I'm a **PhD in Biophysics from the Biosystem Science and Engineering department** at **ETH Zurich (Basel)**.  
 My research lies at the crossroads between **physics** and **biology**, where I use **Atomic Force Microscopy (AFM)** to study how **physical forces** and **cellular mechanical properties** drive biological processes such as **development**, **migration**, and **differentiation**.
 I'm passionate about uncovering the physical principles behind life processes and translating them into quantitative insights.  
 To support my work, I rely heavily on **Python** for data analysis, signal processing, statistics and visualization.  
