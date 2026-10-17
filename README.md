@@ -1,6 +1,6 @@
 ### Hi, I'm Giulia Ammirati 👋
 
-I hold a **PhD in Biosystems Science and Engineering** from **ETH Zurich (D-BSSE, Basel)**, where I worked at the interface of physics and biology. Using **Atomic Force Microscopy**, I characterized the mechanical and rheological properties of single cells and 3D systems — spheroids and organoids — to understand how physical forces shape processes like migration, development, and differentiation.
+I hold a **PhD in Biophysics from the Biosystems Science and Engineering department** of **ETH Zurich (D-BSSE, Basel)**, where I worked at the interface of physics and biology. Using **Atomic Force Microscopy**, I characterized the mechanical and rheological properties of single cells and 3D systems — spheroids and organoids — to understand how physical forces shape processes like migration, development, and differentiation.
 
 Alongside the experimental work, I build **machine learning pipelines for biological data**: spatial transcriptomics, multimodal patient stratification, image-based morphology classification, and deep generative models for biophysical measurements. I'm drawn to problems where careful experimental data and quantitative modeling have to meet.
 
